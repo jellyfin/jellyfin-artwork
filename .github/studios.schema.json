@@ -1,0 +1,65 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"title": "Jellyfin studio artwork",
+	"description": "A set of artwork for studios, used by Jellyfin",
+	"type": "object",
+	"properties": {
+		"name": {
+			"description": "Standard name of the studio, network or label in English",
+			"type": "string"
+		},
+		"providers": {
+			"type": "object",
+			"description": "Identifiers for various metadata providers",
+			"properties": {
+				"tvdb": {
+					"description": "Identifier of the network on TVDB",
+					"type": "string"
+				},
+				"tmdb": {
+					"description": "Identifier of the network or studio on TheTVDB",
+					"type": "string"
+				},
+				"imdb": {
+					"description": "Identifier of the company on IMDB",
+					"type": "string"
+				},
+				"musicbrainz": {
+					"description": "Identifier of the label on MusicBrainz",
+					"type": "string"
+				},
+				"anilist": {
+					"description": "Identifier of the studio on AniList",
+					"type": "string"
+				},
+				"additionalProperties": true
+			}
+		},
+		"artwork": {
+			"type": "object",
+			"properties": {
+				"primary": {
+					"type": "string"
+				},
+				"thumb": {
+					"type": "string"
+				},
+				"logo": {
+					"type": "string"
+				},
+				"backdrop": {
+					"type": "string"
+				}
+			},
+			"required": [
+				"primary",
+				"thumb"
+			]
+		}
+	},
+	"required": [
+		"name",
+		"providers",
+		"artwork"
+	]
+}
