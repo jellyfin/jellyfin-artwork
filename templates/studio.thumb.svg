@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="562"
+   viewBox="0 0 264.58333 148.69584"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
+   sodipodi:docname="studio.thumb.svg">
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1308"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="4"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1306"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="3"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1210"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1191"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="3"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient847">
+      <stop
+         style="stop-color:#282828;stop-opacity:1"
+         offset="0"
+         id="stop843" />
+      <stop
+         style="stop-color:#191919;stop-opacity:1"
+         offset="1"
+         id="stop845" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient847"
+       id="radialGradient849"
+       cx="26.375103"
+       cy="97.113945"
+       fx="26.375103"
+       fy="97.113945"
+       r="132.29167"
+       gradientTransform="matrix(0,1.1515333,-2.0099162,0,221.56598,-12.967733)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#757575"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.78535994"
+     inkscape:cx="573.94002"
+     inkscape:cy="266.68734"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1287"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="false"
+     inkscape:lockguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,148.69584"
+       orientation="0,1000"
+       inkscape:locked="true"
+       id="guide1270" />
+    <sodipodi:guide
+       position="264.58334,148.69584"
+       orientation="562,0"
+       inkscape:locked="true"
+       id="guide1272" />
+    <sodipodi:guide
+       position="264.58334,0"
+       orientation="0,-1000"
+       inkscape:locked="true"
+       id="guide1274" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-562,0"
+       inkscape:locked="true"
+       id="guide1276" />
+    <sodipodi:guide
+       position="21.201605,127.26459"
+       orientation="0,1"
+       id="guide2557"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-33.82728,21.43125"
+       orientation="0,1"
+       id="guide2559"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="39.687501,148.69584"
+       orientation="-1,0"
+       id="guide2561"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="224.89584,148.69584"
+       orientation="-1,0"
+       id="guide2563"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.98;fill:url(#radialGradient849);fill-opacity:1;stroke-width:1.61952"
+       id="rect841"
+       width="264.58334"
+       height="148.69583"
+       x="-5.0862632e-06"
+       y="-4.7961635e-14" />
+    <g
+       id="g1287"
+       transform="matrix(0.74999998,0,0,0.79999997,33.07292,-84.402071)">
+      <g
+         id="g2555">
+        <rect
+           style="opacity:0.98;fill:#ffffff;fill-opacity:1;stroke-width:3.03645"
+           id="rect1218"
+           width="246.94446"
+           height="132.29167"
+           x="8.819437"
+           y="132.29166" />
+        <text
+           xml:space="preserve"
+           style="font-size:28.2222px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="87.643265"
+           y="171.08876"
+           id="text1222"><tspan
+             sodipodi:role="line"
+             id="tspan1220"
+             x="87.643265"
+             y="171.08876"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+             dy="0">LOGO</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+           x="132.23999"
+           y="195.2207"
+           id="text1226"><tspan
+             sodipodi:role="line"
+             id="tspan1224"
+             x="132.23999"
+             y="195.2207"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Align your SVG logo to the</tspan><tspan
+             sodipodi:role="line"
+             x="132.23999"
+             y="208.87564"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan1228">center of this rectangle.</tspan><tspan
+             sodipodi:role="line"
+             x="132.23999"
+             y="222.53058"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan1242" /><tspan
+             sodipodi:role="line"
+             x="132.23999"
+             y="236.18552"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan1236">Size should be as big as this</tspan><tspan
+             sodipodi:role="line"
+             x="132.23999"
+             y="249.84045"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             id="tspan1240">rectangle can contain.</tspan></text>
+      </g>
+      <path
+         id="rect1289"
+         style="opacity:0.98;fill:#0cc2ff;fill-opacity:1;stroke-width:19.7781"
+         d="M 62.957031 25 A 37.999997 40.53333 0 0 0 25 65.533203 L 25 516.51953 A 19.200001 20.48 0 0 0 44.199219 537 L 937 537 A 37.999997 40.53333 0 0 0 975 496.4668 L 975 45.480469 A 19.200001 20.48 0 0 0 955.80078 25 L 63 25 A 37.999997 40.53333 0 0 0 62.957031 25 z M 77 50 L 937.00586 50 A 12.99375 13.86 0 0 1 950 63.859375 L 950 483.19922 A 26.999999 28.799999 0 0 1 923 512 L 62.994141 512 A 12.99375 13.859999 0 0 1 50 498.14062 L 50 78.800781 A 26.999999 28.799999 0 0 1 77 50 z "
+         transform="matrix(0.35277779,0,0,0.33072918,-44.097228,105.50259)" />
+    </g>
+  </g>
+</svg>
