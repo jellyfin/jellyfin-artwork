@@ -117,10 +117,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50181065"
-     inkscape:cx="737.71629"
-     inkscape:cy="635.55726"
+     inkscape:cx="993.48498"
+     inkscape:cy="795.57994"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1876"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -155,28 +155,28 @@
        inkscape:locked="true"
        id="guide839" />
     <sodipodi:guide
-       position="132.29167,264.58333"
+       position="275.56944,291.04167"
        orientation="0,1"
        id="guide1075"
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="132.29167,132.29167"
+       position="323.19316,105.83333"
        orientation="0,1"
        id="guide1077"
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="26.458333,198.4375"
+       position="39.6875,280.99221"
        orientation="-1,0"
        id="guide1079"
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="238.125,198.4375"
+       position="224.89583,283.67412"
        orientation="-1,0"
        id="guide1081"
        inkscape:label=""
@@ -211,10 +211,10 @@
       <rect
          style="opacity:0.98;fill:#ffffff;fill-opacity:1;stroke-width:3.03645"
          id="rect1218"
-         width="211.66667"
-         height="132.29167"
-         x="26.45833"
-         y="132.29166" />
+         width="185.20833"
+         height="185.20833"
+         x="39.687504"
+         y="105.83334" />
       <text
          xml:space="preserve"
          style="font-size:28.2222px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
