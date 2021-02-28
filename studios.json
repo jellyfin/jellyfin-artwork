@@ -1,5 +1,16 @@
 [
     {
+        "name": "Game Show Network",
+        "providers": {
+            "tvdb": "116 ",
+            "tmdb": "63"
+        },
+        "artwork": {
+            "primary": "game-show-network",
+            "thumb": "game-show-network"
+        }
+    },
+    {
         "name": "Netflix",
         "providers": {
             "tvdb": "535",
