@@ -6,155 +6,14 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000"
    height="562"
    viewBox="0 0 264.58333 148.69584"
    version="1.1"
-   id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
-   sodipodi:docname="studio.thumb.svg">
+   id="svg8">
   <defs
      id="defs2">
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2883"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2864"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect2862"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="0"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1088"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="20"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1308"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="4"
-       chamfer_steps="1"
-       flexible="true"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1306"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="3"
-       chamfer_steps="1"
-       flexible="true"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1210"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="2"
-       chamfer_steps="1"
-       flexible="true"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect1191"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1"
-       unit="px"
-       method="auto"
-       mode="F"
-       radius="3"
-       chamfer_steps="1"
-       flexible="true"
-       use_knot_distance="true"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient847">
       <stop
          style="stop-color:#282828;stop-opacity:1"
@@ -166,7 +25,6 @@
          id="stop845" />
     </linearGradient>
     <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient847"
        id="radialGradient849"
        cx="26.375103"
@@ -177,80 +35,6 @@
        gradientTransform="matrix(0,1.1515333,-2.0099162,0,221.56598,-12.967733)"
        gradientUnits="userSpaceOnUse" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#757575"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="595.11716"
-     inkscape:cy="397.59184"
-     inkscape:document-units="mm"
-     inkscape:current-layer="g1287"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="px"
-     inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="false"
-     inkscape:lockguides="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1020"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       position="0,148.69584"
-       orientation="0,1000"
-       inkscape:locked="true"
-       id="guide1270" />
-    <sodipodi:guide
-       position="264.58334,148.69584"
-       orientation="562,0"
-       inkscape:locked="true"
-       id="guide1272" />
-    <sodipodi:guide
-       position="264.58334,0"
-       orientation="0,-1000"
-       inkscape:locked="true"
-       id="guide1274" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="-562,0"
-       inkscape:locked="true"
-       id="guide1276" />
-    <sodipodi:guide
-       position="21.201605,127.26459"
-       orientation="0,1"
-       id="guide2557"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="-33.82728,21.43125"
-       orientation="0,1"
-       id="guide2559"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="39.687501,148.69584"
-       orientation="-1,0"
-       id="guide2561"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="224.89584,148.69584"
-       orientation="-1,0"
-       id="guide2563"
-       inkscape:label=""
-       inkscape:locked="true"
-       inkscape:color="rgb(0,0,255)" />
-  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -264,8 +48,6 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <rect
        style="opacity:0.98;fill:url(#radialGradient849);fill-opacity:1;stroke-width:1.61952"
