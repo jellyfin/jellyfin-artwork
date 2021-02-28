@@ -184,9 +184,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1377.4106"
-     inkscape:cy="638.32888"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="595.11716"
+     inkscape:cy="397.59184"
      inkscape:document-units="mm"
      inkscape:current-layer="g1287"
      inkscape:document-rotation="0"
@@ -277,64 +277,16 @@
     <g
        id="g1287"
        transform="matrix(0.74999998,0,0,0.79999997,33.07292,-84.402071)">
-      <g
-         id="g2555">
-        <rect
-           style="opacity:0.98;fill:#ffffff;fill-opacity:1;stroke-width:3.03645"
-           id="rect1218"
-           width="246.94446"
-           height="132.29167"
-           x="8.819437"
-           y="132.29166" />
-        <text
-           xml:space="preserve"
-           style="font-size:28.2222px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-           x="87.643265"
-           y="171.08876"
-           id="text1222"><tspan
-             sodipodi:role="line"
-             id="tspan1220"
-             x="87.643265"
-             y="171.08876"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-             dy="0">LOGO</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-           x="132.23999"
-           y="195.2207"
-           id="text1226"><tspan
-             sodipodi:role="line"
-             id="tspan1224"
-             x="132.23999"
-             y="195.2207"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Align your SVG logo to the</tspan><tspan
-             sodipodi:role="line"
-             x="132.23999"
-             y="208.87564"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan1228">center of this rectangle.</tspan><tspan
-             sodipodi:role="line"
-             x="132.23999"
-             y="222.53058"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan1242" /><tspan
-             sodipodi:role="line"
-             x="132.23999"
-             y="236.18552"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan1236">Size should be as big as this</tspan><tspan
-             sodipodi:role="line"
-             x="132.23999"
-             y="249.84045"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-             id="tspan1240">rectangle can contain.</tspan></text>
-      </g>
       <path
          id="rect2860"
-         style="opacity:0.98;fill:#0cc2ff;fill-opacity:1;stroke-width:85.9894"
+         style="opacity:0.98;fill:#e50914;fill-opacity:1;stroke-width:85.9894"
          d="M 40 25 A 15 16 0 0 0 25 41 L 25 521 A 15 16 0 0 0 40 537 L 960 537 A 15 16 0 0 0 975 521 L 975 41 A 15 16 0 0 0 960 25 L 40 25 z M 52.5 37.5 L 947.5 37.5 A 15 16 0 0 1 962.5 53.5 L 962.5 508.5 A 15 16 0 0 1 947.5 524.5 L 52.5 524.5 A 15 16 0 0 1 37.5 508.5 L 37.5 53.5 A 15 16 0 0 1 52.5 37.5 z "
          transform="matrix(0.35277779,0,0,0.33072918,-44.097228,105.50259)" />
+      <path
+         d="m 42.775021,225.68813 c -3.714778,0.61156 -7.494909,0.79491 -11.405265,1.28325 L 19.442628,194.2217 v 34.15525 c -3.714778,0.36648 -7.103753,0.85528 -10.6231942,1.34407 v -62.56705 h 9.9067182 l 13.5559,35.5 v -35.5 h 10.492969 z m 20.529911,-35.62141 c 4.041063,0 10.232518,-0.18335 13.947296,-0.18335 v 9.77589 c -4.627554,0 -10.036699,0 -13.947296,0.18335 v 14.5422 c 6.126586,-0.36648 12.252927,-0.85573 18.444147,-1.03908 v 9.40895 l -28.872245,2.13899 v -57.7397 h 28.872245 v 9.77612 H 63.304932 Z M 120.52756,176.93031 H 109.7088 v 44.97 c -3.51945,0 -7.03889,0 -10.427387,0.12186 V 176.93031 H 88.46264 v -9.77634 h 32.06541 z m 16.94512,12.46449 h 14.27334 v 9.77589 h -14.27334 v 22.17978 h -10.23301 v -54.1965 h 29.13366 v 9.77612 h -18.90065 z m 35.84577,23.40132 c 5.93101,0.12186 11.92664,0.55028 17.72743,0.85528 v 9.65403 c -9.31974,-0.55029 -18.63973,-1.09945 -28.15505,-1.28326 v -54.8682 h 10.42762 z m 26.52579,11.18145 c 3.32386,0.18359 6.8433,0.36694 10.23227,0.73297 v -57.55657 h -10.23227 z m 55.91966,-56.8236 -13.23059,29.7561 13.23059,32.81095 c -3.91084,-0.48879 -7.8212,-1.16094 -11.7318,-1.77205 l -7.49467,-18.08539 -7.62465,16.61946 c -3.78085,-0.61156 -7.43052,-0.79491 -11.20992,-1.28371 l 13.42567,-28.65619 -12.12271,-29.38917 h 11.20945 l 6.84331,16.43611 7.29981,-16.43611 z"
+         fill="#d81f26"
+         id="path3022"
+         style="fill:#e50914;fill-opacity:1;stroke-width:0.233499" />
     </g>
   </g>
 </svg>

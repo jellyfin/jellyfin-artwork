@@ -19,7 +19,7 @@
                         "type": "string"
                     },
                     "tmdb": {
-                        "description": "Identifier of the network or studio on TheTVDB",
+                        "description": "Identifier of the network or studio on TheMovieDB",
                         "type": "string"
                     },
                     "imdb": {
@@ -28,6 +28,10 @@
                     },
                     "musicbrainz": {
                         "description": "Identifier of the label on MusicBrainz",
+                        "type": "string"
+                    },
+                    "anidb": {
+                        "description": "Identifier of the studio on AniDB",
                         "type": "string"
                     },
                     "anilist": {

@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
-   sodipodi:docname="studio.primary.svg">
+   sodipodi:docname="netflix.primary.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -206,63 +206,15 @@
        height="396.875"
        x="-5.0862632e-06"
        y="-4.7961635e-14" />
-    <g
-       id="g1876">
-      <rect
-         style="opacity:0.98;fill:#ffffff;fill-opacity:1;stroke-width:3.03645"
-         id="rect1218"
-         width="211.66667"
-         height="132.29167"
-         x="26.45833"
-         y="132.29166" />
-      <text
-         xml:space="preserve"
-         style="font-size:28.2222px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="87.643265"
-         y="171.08876"
-         id="text1222"><tspan
-           sodipodi:role="line"
-           id="tspan1220"
-           x="87.643265"
-           y="171.08876"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
-           dy="0">LOGO</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="132.23999"
-         y="195.2207"
-         id="text1226"><tspan
-           sodipodi:role="line"
-           id="tspan1224"
-           x="132.23999"
-           y="195.2207"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Align your SVG logo to the</tspan><tspan
-           sodipodi:role="line"
-           x="132.23999"
-           y="208.87564"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1228">center of this rectangle.</tspan><tspan
-           sodipodi:role="line"
-           x="132.23999"
-           y="222.53058"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1242" /><tspan
-           sodipodi:role="line"
-           x="132.23999"
-           y="236.18552"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1236">Size should be as big as this</tspan><tspan
-           sodipodi:role="line"
-           x="132.23999"
-           y="249.84045"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-           id="tspan1240">rectangle can contain.</tspan></text>
-    </g>
     <path
        id="rect3410"
-       style="opacity:0.98;fill:#0cc2ff;fill-opacity:1;stroke-width:46.3438"
+       style="opacity:0.98;fill:#e50914;fill-opacity:1;stroke-width:46.3438"
        d="M 49.832031 25 A 25 25 0 0 0 25 50 L 25 1450 A 25 25 0 0 0 50 1475 L 950 1475 A 25 25 0 0 0 975 1450 L 975 50 A 25 25 0 0 0 950 25 L 50 25 A 25 25 0 0 0 49.832031 25 z M 73.542969 50 A 23.68421 24.137931 0 0 1 73.683594 50 L 926.31641 50 A 23.68421 24.137931 0 0 1 950 74.138672 L 950 1425.8613 A 23.68421 24.137931 0 0 1 926.31641 1450 L 73.683594 1450 A 23.68421 24.137931 0 0 1 50 1425.8613 L 50 74.138672 A 23.68421 24.137931 0 0 1 73.542969 50 z "
        transform="scale(0.26458333)" />
+    <path
+       d="m 55.563119,223.35236 c -3.184095,0.55914 -6.424207,0.72678 -9.77594,1.17326 L 35.563927,194.58305 v 31.22766 c -3.184095,0.33507 -6.08893,0.78197 -9.105594,1.22887 v -57.20416 h 8.491471 l 11.619343,32.45714 v -32.45714 h 8.993972 z m 17.597065,-32.56814 c 3.463768,0 8.770731,-0.16764 11.954825,-0.16764 v 8.93796 c -3.966475,0 -8.602885,0 -11.954825,0.16763 v 13.29573 c 5.251359,-0.33507 10.502511,-0.78239 15.80927,-0.95002 v 8.60247 l -24.747639,1.95564 v -52.79057 h 24.747639 v 8.93816 h -15.80927 z m 49.047956,-12.01043 h -9.27323 v 41.11542 c -3.01666,0 -6.03332,0 -8.93774,0.11141 v -41.22683 h -9.273239 v -8.93837 h 27.484629 z m 14.52438,11.3961 h 12.2343 v 8.93795 h -12.2343 v 20.27866 h -8.77114 v -49.55108 h 24.97171 v 8.93816 h -16.20057 z m 30.72496,21.39549 c 5.08372,0.11141 10.22284,0.50312 15.19494,0.78196 v 8.82655 c -7.98835,-0.50313 -15.97691,-1.00521 -24.1329,-1.17327 v -50.1652 h 8.93796 z m 22.73639,10.22304 c 2.84903,0.16784 5.86569,0.33548 8.77053,0.67014 v -52.62314 h -8.77053 z m 47.93113,-51.953 -11.34049,27.20557 11.34049,29.99859 c -3.35214,-0.4469 -6.70388,-1.06144 -10.05582,-1.62017 l -6.424,-16.53522 -6.53542,15.19495 c -3.24073,-0.55914 -6.36901,-0.72678 -9.6085,-1.17368 l 11.50772,-26.19995 -10.39089,-26.87009 h 9.6081 l 5.86568,15.0273 6.25698,-15.0273 z"
+       fill="#d81f26"
+       id="path2081"
+       style="fill:#e50914;fill-opacity:1;stroke-width:0.206705" />
   </g>
 </svg>
