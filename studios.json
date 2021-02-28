@@ -1,8 +1,20 @@
 [
     {
+        "name": "E!",
+        "providers": {
+            "tvdb": "87",
+            "tmdb": "76",
+            "imdb": "co0022548"
+        },
+        "artwork": {
+            "primary": "e",
+            "thumb": "e"
+        }
+    },
+    {
         "name": "Game Show Network",
         "providers": {
-            "tvdb": "116 ",
+            "tvdb": "116",
             "tmdb": "63"
         },
         "artwork": {

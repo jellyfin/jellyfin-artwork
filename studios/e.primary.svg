@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="1000"
+   height="1500"
+   viewBox="0 0 264.58333 396.87501"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient847">
+      <stop
+         style="stop-color:#282828;stop-opacity:1"
+         offset="0"
+         id="stop843" />
+      <stop
+         style="stop-color:#191919;stop-opacity:1"
+         offset="1"
+         id="stop845" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient847"
+       id="radialGradient849"
+       cx="26.375103"
+       cy="97.113945"
+       fx="26.375103"
+       fy="97.113945"
+       r="132.29167"
+       gradientTransform="matrix(0,3.0734875,-2.0099162,0,221.56598,-34.611386)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <rect
+       style="opacity:0.98;fill:url(#radialGradient849);fill-opacity:1;stroke-width:2.64583"
+       id="rect841"
+       width="264.58334"
+       height="396.875"
+       x="-5.0862632e-06"
+       y="-4.7961635e-14" />
+    <path
+       id="rect3410"
+       style="opacity:0.98;fill:#eb2d37;fill-opacity:1;stroke-width:46.3438"
+       d="M 49.832031 25 A 25 25 0 0 0 25 50 L 25 1450 A 25 25 0 0 0 50 1475 L 950 1475 A 25 25 0 0 0 975 1450 L 975 50 A 25 25 0 0 0 950 25 L 50 25 A 25 25 0 0 0 49.832031 25 z M 73.542969 50 A 23.68421 24.137931 0 0 1 73.683594 50 L 926.31641 50 A 23.68421 24.137931 0 0 1 950 74.138672 L 950 1425.8613 A 23.68421 24.137931 0 0 1 926.31641 1450 L 73.683594 1450 A 23.68421 24.137931 0 0 1 50 1425.8613 L 50 74.138672 A 23.68421 24.137931 0 0 1 73.542969 50 z "
+       transform="scale(0.26458333)" />
+    <g
+       id="g10868"
+       transform="matrix(0.26422022,0,0,0.26422022,103.67133,105.83333)">
+      <polyline
+         points="216.64,0 195.333,511.735 17.405,511.735 0,0 216.64,0  "
+         id="polyline10860"
+         style="fill:#eb2d2e" />
+      <polyline
+         points="43.581,478.12 171.821,478.12 171.821,412.07 117.047,412.07 117.047,265.206 180.5,265.206    180.5,199.223 118.297,199.223 118.297,104.573 185.5,104.573 185.5,33.628 34.853,33.628 43.581,478.12  "
+         id="polyline10862"
+         style="fill:#ffffff" />
+      <rect
+         x="18.690001"
+         y="547.83099"
+         width="176.772"
+         height="153.131"
+         id="rect10864"
+         style="fill:#eb2d2e" />
+    </g>
+  </g>
+</svg>
