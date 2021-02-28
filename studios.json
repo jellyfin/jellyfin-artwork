@@ -1,5 +1,28 @@
 [
     {
+        "name": "E!",
+        "providers": {
+            "tvdb": "87",
+            "tmdb": "76",
+            "imdb": "co0022548"
+        },
+        "artwork": {
+            "primary": "e",
+            "thumb": "e"
+        }
+    },
+    {
+        "name": "Game Show Network",
+        "providers": {
+            "tvdb": "116",
+            "tmdb": "63"
+        },
+        "artwork": {
+            "primary": "game-show-network",
+            "thumb": "game-show-network"
+        }
+    },
+    {
         "name": "Netflix",
         "providers": {
             "tvdb": "535",
