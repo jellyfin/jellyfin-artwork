@@ -1,4 +1,4 @@
-name: Validate studios JSON file
+name: Validate JSON files
 
 on:
   pull_request:

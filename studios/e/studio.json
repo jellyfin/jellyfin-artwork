@@ -1,0 +1,15 @@
+[
+  {
+    "name": "E!",
+    "machine-name": "e",
+    "providers": {
+      "tvdb": "87",
+      "tmdb": "76",
+      "imdb": "co0022548"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

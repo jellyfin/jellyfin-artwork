@@ -1,0 +1,42 @@
+name: Build & release
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - name: Install build dependencies
+        run: npm install svgo
+      - name: Create dist directory
+        run: mkdir dist
+      - name: Copy source SVGs
+        run: cp -r studios dist/
+      - name: Optimize source SVGs
+        run: npx svgo --multipass dist/studios/**/*.svg
+      - name: ImageMagick Action
+        uses: jruipinto/ImageMagick-action@v1
+        with:
+          # ImageMagick command to be executed
+          command: mogrify -format webp dist/studios/**/*.svg
+      - name: Build studios.json
+        run: jq -s '.[0]=([.[]]|flatten)|.[0]' studios/**/studio.json > dist/studios.json
+      - name: Remove individual JSON files
+        run: rm dist/studios/**/studio.json
+      - name: Compress built assets
+        run: cd dist; zip -r -D ../release.zip *; cd ..
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          files: |
+            release.zip
