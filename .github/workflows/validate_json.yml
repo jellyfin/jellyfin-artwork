@@ -16,4 +16,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           json_schema: .github/studios.schema.json
-          json_path_pattern: studios.json
+          json_path_pattern: studios/.*/studio.json$
