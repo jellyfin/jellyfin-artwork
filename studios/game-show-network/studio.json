@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Game Show Network",
+    "machine-name": "game-show-network",
+    "providers": {
+      "tvdb": "116",
+      "tmdb": "63"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

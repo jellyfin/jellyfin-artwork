@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Netflix",
+    "machine-name": "netflix",
+    "providers": {
+      "tvdb": "535",
+      "tmdb": "213",
+      "imdb": "co0144901",
+      "anidb": "54015"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]
