@@ -33,9 +33,9 @@ jobs:
         run: rm dist/studios/**/studio.json
       - name: Compress built assets
         run: cd dist; zip -r -D ../release.zip *; cd ..
-      - uses: "marvinpinto/action-automatic-releases@latest"
+      - uses: "marvinpinto/action-automatic-releases@v1.2.0"
         with:
-          repo_token: "${{ secrets.GH_TOKEN }}"
+          repo_token: "${{ secrets.JF_BOT_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: false
           files: |
