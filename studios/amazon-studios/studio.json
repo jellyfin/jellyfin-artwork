@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Amazon Studios",
+    "machine-name": "amazon-studios",
+    "providers": {
+	  "imdb": "co0319272",
+      "tmdb": "20580",
+      "tvdb": "2050"
+    },
+    "artwork": {
+      "logo": ["svg", "webp"],
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Amazon Prime Video",
+    "machine-name": "amazon-prime-video",
+    "providers": {
+	  "imdb": "co0476953",
+      "tvdb": "4226"
+    },
+    "artwork": {
+      "logo": ["svg", "webp"],
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]
