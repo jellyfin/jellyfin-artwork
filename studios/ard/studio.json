@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ARD",
+    "machine-name": "ard",
+    "providers": {
+	  "imdb": "co0844218",
+      "tmdb": "308",
+      "tvdb": "5044"
+    },
+    "artwork": {
+      "logo": ["svg", "webp"],
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

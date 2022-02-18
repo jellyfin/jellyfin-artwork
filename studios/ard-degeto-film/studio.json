@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ARD Degeto Film",
+    "machine-name": "ard-degeto-film",
+    "providers": {
+	  "imdb": "co0061958",
+      "tmdb": "6187",
+      "tvdb": "5046"
+    },
+    "artwork": {
+      "logo": ["svg", "webp"],
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

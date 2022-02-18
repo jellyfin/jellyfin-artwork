@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Das Erste",
+    "machine-name": "das-erste",
+    "providers": {
+	  "imdb": "co0799614",
+      "tmdb": "35944",
+      "tvdb": "77"
+    },
+    "artwork": {
+      "logo": ["svg", "webp"],
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

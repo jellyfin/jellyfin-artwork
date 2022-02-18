@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ARD Degeto",
+    "machine-name": "ard-degeto",
+    "providers": {
+	  "imdb": "co0061958",
+      "tmdb": "6187",
+      "tvdb": "5045"
+    },
+    "artwork": {
+      "logo": ["svg", "webp"],
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]
