@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ZDF",
+    "machine-name": "zdf",
+    "providers": {
+	  "imdb": "co0901036",
+      "tmdb": "4606",
+      "tvdb": "315"
+    },
+    "artwork": {
+      "logo": ["svg", "webp"],
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]
