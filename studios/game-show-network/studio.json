@@ -3,10 +3,11 @@
     "name": "Game Show Network",
     "machine-name": "game-show-network",
     "providers": {
-      "tvdb": "116",
-      "tmdb": "63"
+      "tmdb": "63",
+      "tvdb": "116"
     },
     "artwork": {
+      "logo": ["svg", "webp"],
       "primary": ["svg", "webp"],
       "thumb": ["svg", "webp"]
     }

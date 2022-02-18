@@ -3,12 +3,13 @@
     "name": "Netflix",
     "machine-name": "netflix",
     "providers": {
-      "tvdb": "535",
-      "tmdb": "213",
+      "anidb": "54015",
       "imdb": "co0144901",
-      "anidb": "54015"
+      "tmdb": "213",
+      "tvdb": "535"
     },
     "artwork": {
+      "logo": ["svg", "webp"],
       "primary": ["svg", "webp"],
       "thumb": ["svg", "webp"]
     }

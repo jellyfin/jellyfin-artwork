@@ -3,11 +3,12 @@
     "name": "E!",
     "machine-name": "e",
     "providers": {
-      "tvdb": "87",
+      "imdb": "co0022548",
       "tmdb": "76",
-      "imdb": "co0022548"
+      "tvdb": "87"
     },
     "artwork": {
+      "logo": ["svg", "webp"],
       "primary": ["svg", "webp"],
       "thumb": ["svg", "webp"]
     }
