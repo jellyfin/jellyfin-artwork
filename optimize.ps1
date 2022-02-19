@@ -1,0 +1,1 @@
+dir -recurse -include *.svg | %{npx svgo $_.FullName}
