@@ -1,70 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="800"
-   height="310"
-   viewBox="0 0 211.66667 82.020831"
-   version="1.1"
-   id="svg1100"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1102"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="px"
-     showgrid="false"
-     units="px"
-     inkscape:zoom="0.52347032"
-     inkscape:cx="1332.4538"
-     inkscape:cy="341.94871"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs1097" />
-  <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g10868"
-       transform="matrix(0.11701181,0,0,0.11701181,95.249999,0)">
-      <polyline
-         points="216.64,0 195.333,511.735 17.405,511.735 0,0 216.64,0  "
-         id="polyline10860"
-         style="fill:#eb2d2e" />
-      <polyline
-         points="43.581,478.12 171.821,478.12 171.821,412.07 117.047,412.07 117.047,265.206 180.5,265.206    180.5,199.223 118.297,199.223 118.297,104.573 185.5,104.573 185.5,33.628 34.853,33.628 43.581,478.12  "
-         id="polyline10862"
-         style="fill:#ffffff" />
-      <rect
-         x="18.690001"
-         y="547.83099"
-         width="176.772"
-         height="153.131"
-         id="rect10864"
-         style="fill:#eb2d2e" />
+<svg width="800" height="310" viewBox="0 0 211.667 82.021" version="1.1" id="svg1100" xmlns="http://www.w3.org/2000/svg">
+    <g id="layer1">
+        <g id="g10868" transform="translate(93.159) scale(.11701)">
+            <path id="polyline10860" style="fill:#eb2d2e" d="m216.64 0-21.307 511.735H17.405L0 0h216.64"/>
+            <path id="polyline10862" style="fill:#fff" d="M43.581 478.12h128.24v-66.05h-54.774V265.206H180.5v-65.983h-62.203v-94.65H185.5V33.628H34.853l8.728 444.492"/>
+            <path id="rect10864" style="fill:#eb2d2e" d="M18.69 547.831h176.772v153.131H18.69z"/>
+        </g>
     </g>
-  </g>
-  <style
-     type="text/css"
-     id="style2">
-	.st0{display:none;}
-	.st1{display:inline;fill:#7D7D7D;}
-	.st2{fill:#FA7D19;}
-	.st3{fill:#FFFFFF;}
-</style>
+    <style type="text/css" id="style2">
+        .st0{display:none}.st1{display:inline;fill:#7d7d7d}.st2{fill:#fa7d19}.st3{fill:#fff}
+    </style>
 </svg>
