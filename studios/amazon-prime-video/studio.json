@@ -1,12 +1,10 @@
 [
   {
-    "name": "Netflix",
-    "machine-name": "netflix",
+    "name": "Amazon Prime Video",
+    "machine-name": "amazon-prime-video",
     "providers": {
-      "anidb": "54015",
-      "imdb": "co0144901",
-      "tmdb": "213",
-      "tvdb": "535"
+	  "imdb": "co0476953",
+      "tvdb": "4226"
     },
     "artwork": {
       "logo": ["svg", "webp"],

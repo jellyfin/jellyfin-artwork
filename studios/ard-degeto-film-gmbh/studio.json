@@ -1,12 +1,11 @@
 [
   {
-    "name": "Netflix",
-    "machine-name": "netflix",
+    "name": "ARD Degeto Film GmbH",
+    "machine-name": "ard-degeto-film GmbH",
     "providers": {
-      "anidb": "54015",
-      "imdb": "co0144901",
-      "tmdb": "213",
-      "tvdb": "535"
+	  "imdb": "co0061958",
+      "tmdb": "6187",
+      "tvdb": "5047"
     },
     "artwork": {
       "logo": ["svg", "webp"],

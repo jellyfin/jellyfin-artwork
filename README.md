@@ -12,3 +12,5 @@
 This repository provides the sources for the artwork served by the Jellyfin Artwork Repository. It contains images for Studios, Networks, Music Labels, and Genres.
 
 It should be used with the [Jellyfin Artwork Plugin](https://github.com/crobibero/jellyfin-plugin-artwork)
+
+Please optimize your SVGs before committing. The repository provides a configuration and scripts to optimize all SVGs with [svgo](https://github.com/svg/svgo).

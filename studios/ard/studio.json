@@ -1,12 +1,11 @@
 [
   {
-    "name": "Netflix",
-    "machine-name": "netflix",
+    "name": "ARD",
+    "machine-name": "ard",
     "providers": {
-      "anidb": "54015",
-      "imdb": "co0144901",
-      "tmdb": "213",
-      "tvdb": "535"
+	  "imdb": "co0844218",
+      "tmdb": "308",
+      "tvdb": "5044"
     },
     "artwork": {
       "logo": ["svg", "webp"],
