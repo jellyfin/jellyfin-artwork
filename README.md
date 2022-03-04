@@ -11,4 +11,4 @@
 
 This repository provides the sources for the artwork served by the Jellyfin Artwork Repository. It contains images for Studios, Networks, Music Labels, and Genres.
 
-It should be used with the [Jellyfin Artwork Plugin](https://github.com/crobibero/jellyfin-plugin-artwork)
+It should be used with the [Jellyfin Artwork Plugin](https://github.com/jellyfin/jellyfin-plugin-artwork)
