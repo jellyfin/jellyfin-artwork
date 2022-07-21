@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Comedy Central",
+    "machine-name": "coedy-central",
+    "providers": {
+      "tvdb": "1300",
+      "tmdb": "47",
+      "imdb": "co0029768"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

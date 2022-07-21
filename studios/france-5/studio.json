@@ -1,0 +1,15 @@
+[
+  {
+    "name": "France 5",
+    "machine-name": "france-5",
+    "providers": {
+      "tvdb": "108",
+      "tmdb": "255",
+      "imdb": "co0088445"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

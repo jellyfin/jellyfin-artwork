@@ -1,0 +1,15 @@
+[
+  {
+    "name": "France 2",
+    "machine-name": "france-2",
+    "providers": {
+      "tvdb": "105",
+      "tmdb": "361",
+      "imdb": "co0011107"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

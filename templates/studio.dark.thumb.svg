@@ -1,56 +1,130 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000"
-   height="1500"
-   viewBox="0 0 264.58333 396.87501"
+   height="562"
+   viewBox="0 0 264.58333 148.69584"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
-   sodipodi:docname="studio.primary.svg">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="studio.dark.thumb.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect3429"
+       id="path-effect2883"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,6.6145833,0,1 @ F,0,0,1,0,6.6145833,0,1 @ F,0,0,1,0,6.6145833,0,1 @ F,0,0,1,0,6.6145833,0,1"
+       satellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1"
        unit="px"
        method="auto"
        mode="F"
-       radius="25"
+       radius="20"
        chamfer_steps="1"
        flexible="false"
        use_knot_distance="true"
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1" />
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect3427"
+       id="path-effect2864"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="20"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2862"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1088"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="20"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false"
+       nodesatellites_param="F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1 @ F,0,0,1,0,5.2916667,0,1" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1308"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="4"
+       chamfer_steps="1"
+       flexible="true"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false"
+       nodesatellites_param="F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1 @ F,1,0,1,0,0.04,0,1" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1306"
        is_visible="true"
        lpeversion="1"
        satellites_param="F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1"
        unit="px"
        method="auto"
        mode="F"
-       radius="15"
+       radius="3"
        chamfer_steps="1"
-       flexible="false"
+       flexible="true"
        use_knot_distance="true"
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect1210"
@@ -67,7 +141,8 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1 @ F,1,0,1,0,0.02,0,1" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect1191"
@@ -84,7 +159,8 @@
        apply_no_radius="true"
        apply_with_radius="true"
        only_selected="false"
-       hide_knots="false" />
+       hide_knots="false"
+       nodesatellites_param="F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1 @ F,1,0,1,0,0.03,0,1" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient847">
@@ -106,7 +182,7 @@
        fx="26.375103"
        fy="97.113945"
        r="132.29167"
-       gradientTransform="matrix(0,3.0734875,-2.0099162,0,221.56598,-34.611386)"
+       gradientTransform="matrix(0,1.1515333,-2.0099162,0,221.56598,-12.967733)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -116,11 +192,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50181065"
-     inkscape:cx="993.48498"
-     inkscape:cy="795.57994"
+     inkscape:zoom="1"
+     inkscape:cx="411.5"
+     inkscape:cy="294"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1876"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -128,57 +204,58 @@
      inkscape:pagecheckerboard="false"
      inkscape:lockguides="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1020"
-     inkscape:window-x="1920"
-     inkscape:window-y="32"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     inkscape:deskcolor="#757575">
     <sodipodi:guide
-       position="0,396.875"
+       position="0,148.69584"
        orientation="0,1000"
        inkscape:locked="true"
-       id="guide833" />
+       id="guide1270" />
     <sodipodi:guide
-       position="264.58333,396.875"
-       orientation="1500,0"
+       position="264.58334,148.69584"
+       orientation="562,0"
        inkscape:locked="true"
-       id="guide835" />
+       id="guide1272" />
     <sodipodi:guide
-       position="264.58333,0"
+       position="264.58334,0"
        orientation="0,-1000"
        inkscape:locked="true"
-       id="guide837" />
+       id="guide1274" />
     <sodipodi:guide
        position="0,0"
-       orientation="-1500,0"
+       orientation="-562,0"
        inkscape:locked="true"
-       id="guide839" />
+       id="guide1276" />
     <sodipodi:guide
-       position="275.56944,291.04167"
+       position="21.201605,127.26459"
        orientation="0,1"
-       id="guide1075"
+       id="guide2557"
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="323.19316,105.83333"
+       position="-33.82728,21.43125"
        orientation="0,1"
-       id="guide1077"
+       id="guide2559"
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="39.6875,280.99221"
+       position="39.687501,148.69584"
        orientation="-1,0"
-       id="guide1079"
+       id="guide2561"
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="224.89583,283.67412"
+       position="224.89584,148.69584"
        orientation="-1,0"
-       id="guide1081"
+       id="guide2563"
        inkscape:label=""
        inkscape:locked="true"
        inkscape:color="rgb(0,0,255)" />
@@ -191,7 +268,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -200,69 +276,70 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.98;fill:url(#radialGradient849);fill-opacity:1;stroke-width:2.64583"
-       id="rect841"
+       style="opacity:0.98;fill:url(#radialGradient849);fill-opacity:1;stroke-width:1.61952"
+       id="background"
        width="264.58334"
-       height="396.875"
+       height="148.69583"
        x="-5.0862632e-06"
        y="-4.7961635e-14" />
     <g
-       id="g1876">
+       id="logo"
+       transform="matrix(0.74999998,0,0,0.79999997,33.07292,-84.402071)">
       <rect
          style="opacity:0.98;fill:#ffffff;fill-opacity:1;stroke-width:3.03645"
          id="rect1218"
-         width="185.20833"
-         height="185.20833"
-         x="39.687504"
-         y="105.83334" />
+         width="246.94446"
+         height="132.29167"
+         x="8.819437"
+         y="132.29166" />
       <text
          xml:space="preserve"
          style="font-size:28.2222px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:Quicksand;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="87.643265"
+         x="91.468246"
          y="171.08876"
          id="text1222"><tspan
            sodipodi:role="line"
            id="tspan1220"
-           x="87.643265"
+           x="91.468246"
            y="171.08876"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
            dy="0">LOGO</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Medium';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="132.23999"
+         x="132.24933"
          y="195.2207"
          id="text1226"><tspan
            sodipodi:role="line"
            id="tspan1224"
-           x="132.23999"
+           x="132.24933"
            y="195.2207"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Align your SVG logo to the</tspan><tspan
            sodipodi:role="line"
-           x="132.23999"
-           y="208.87564"
+           x="132.24933"
+           y="208.44983"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
            id="tspan1228">center of this rectangle.</tspan><tspan
            sodipodi:role="line"
-           x="132.23999"
-           y="222.53058"
+           x="132.24933"
+           y="221.67896"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
            id="tspan1242" /><tspan
            sodipodi:role="line"
-           x="132.23999"
-           y="236.18552"
+           x="132.24933"
+           y="234.90808"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
            id="tspan1236">Size should be as big as this</tspan><tspan
            sodipodi:role="line"
-           x="132.23999"
-           y="249.84045"
+           x="132.24933"
+           y="248.13721"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
            id="tspan1240">rectangle can contain.</tspan></text>
     </g>
     <path
-       id="rect3410"
-       style="opacity:0.98;fill:#0cc2ff;fill-opacity:1;stroke-width:46.3438"
-       d="M 49.832031 25 A 25 25 0 0 0 25 50 L 25 1450 A 25 25 0 0 0 50 1475 L 950 1475 A 25 25 0 0 0 975 1450 L 975 50 A 25 25 0 0 0 950 25 L 50 25 A 25 25 0 0 0 49.832031 25 z M 73.542969 50 A 23.68421 24.137931 0 0 1 73.683594 50 L 926.31641 50 A 23.68421 24.137931 0 0 1 950 74.138672 L 950 1425.8613 A 23.68421 24.137931 0 0 1 926.31641 1450 L 73.683594 1450 A 23.68421 24.137931 0 0 1 50 1425.8613 L 50 74.138672 A 23.68421 24.137931 0 0 1 73.542969 50 z "
+       id="border"
+       style="opacity:0.98;fill:#0cc2ff;fill-opacity:1;stroke-width:85.9894"
+       d="M 40,25 A 15,16 0 0 0 25,41 v 480 a 15,16 0 0 0 15,16 h 920 a 15,16 0 0 0 15,-16 V 41 A 15,16 0 0 0 960,25 Z m 12.5,12.5 h 895 a 15,16 0 0 1 15,16 v 455 a 15,16 0 0 1 -15,16 h -895 a 15,16 0 0 1 -15,-16 v -455 a 15,16 0 0 1 15,-16 z"
        transform="scale(0.26458333)" />
   </g>
 </svg>

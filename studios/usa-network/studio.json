@@ -1,0 +1,15 @@
+[
+  {
+    "name": "USA Network",
+    "machine-name": "usa-network",
+    "providers": {
+      "tvdb": "301",
+      "tmdb": "30",
+      "imdb": "co0014957"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

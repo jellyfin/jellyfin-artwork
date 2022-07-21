@@ -1,0 +1,15 @@
+[
+  {
+    "name": "France TV",
+    "machine-name": "france-tv",
+    "providers": {
+      "tvdb": "17865",
+      "tmdb": "3856",
+      "imdb": "co0125554"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]
