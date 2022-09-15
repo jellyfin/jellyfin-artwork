@@ -1,0 +1,15 @@
+[
+  {
+    "name": "AT-X",
+    "machine-name": "at-x",
+    "providers": {
+      "tvdb": "433",
+      "tmdb": "173",
+      "imdb": "co0035005"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

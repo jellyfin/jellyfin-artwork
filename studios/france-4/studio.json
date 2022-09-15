@@ -1,0 +1,15 @@
+[
+  {
+    "name": "France 4",
+    "machine-name": "france-4",
+    "providers": {
+      "tvdb": "107",
+      "tmdb": "511",
+      "imdb": "co0148003"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

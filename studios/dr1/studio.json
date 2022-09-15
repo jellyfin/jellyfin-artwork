@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DR1",
+    "machine-name": "dr1",
+    "providers": {
+      "tvdb": "76",
+      "tmdb": "391",
+      "imdb": "co0503270"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "France TV Slash",
+    "machine-name": "france-tv-slash",
+    "providers": {
+      "tvdb": "1233",
+      "tmdb": "2983"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

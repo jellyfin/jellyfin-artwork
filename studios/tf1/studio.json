@@ -1,0 +1,15 @@
+[
+  {
+    "name": "TF1",
+    "machine-name": "tf1",
+    "providers": {
+      "tvdb": "260",
+      "tmdb": "290",
+      "imdb": "co0028766"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

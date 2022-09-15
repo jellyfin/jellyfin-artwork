@@ -1,0 +1,15 @@
+[
+  {
+    "name": "HBO",
+    "machine-name": "hbo",
+    "providers": {
+      "tvdb": "328",
+      "tmdb": "49",
+      "imdb": "co0008693"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

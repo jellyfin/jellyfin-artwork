@@ -1,0 +1,15 @@
+[
+  {
+    "name": "France 3",
+    "machine-name": "france-3",
+    "providers": {
+      "tvdb": "106",
+      "tmdb": "249",
+      "imdb": "co0061460"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

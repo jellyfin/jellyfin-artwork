@@ -1,0 +1,15 @@
+[
+  {
+    "name": "M6",
+    "machine-name": "m6",
+    "providers": {
+      "tvdb": "135",
+      "tmdb": "712",
+      "imdb": "co0037417"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]

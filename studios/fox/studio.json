@@ -1,0 +1,15 @@
+[
+  {
+    "name": "FOX",
+    "machine-name": "fox",
+    "providers": {
+      "tvdb": "1305",
+      "tmdb": "19",
+      "imdb": "co0070925"
+    },
+    "artwork": {
+      "primary": ["svg", "webp"],
+      "thumb": ["svg", "webp"]
+    }
+  }
+]
